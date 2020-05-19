@@ -1,0 +1,32 @@
+h1 {
+ color:black;
+ font: size 400px;
+ height:90px;
+ padding: 50px 0;
+ letter-spacing: 15px;
+ text-align:center;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+opacity: 1;
+background-color: cadetblue;
+margin:0 100px;
+}
+
+.top-wrapper {
+    height:600px;
+    background-image: url("https://cdn.pixabay.com/photo/2018/05/06/15/48/city-3378773_960_720.jpg");
+    background-size: cover;
+} 
+.container {
+    width:800px;
+    height:600px;
+    padding:300px 400px;
+    margin:0 auto;
+
+}
+.container h3 p {
+    color: cadetblue;
+    text-align: center;
+    font-family: serif;
+    font: size 50px;
+
+}
